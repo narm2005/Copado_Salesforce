@@ -1,0 +1,3 @@
+# Robot Framework + QWeb (Copado's open-source QWords library)
+QWeb>=3.0
+robotframework>=6.1
